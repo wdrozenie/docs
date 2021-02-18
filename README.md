@@ -1,6 +1,6 @@
 ![wdrozenie - logo](https://logo.wdrozenie.it/1/cover.png)
 # wdrozenie.it
-+ [wdrozenie.it](https://wdrozenie.it/)
++ [wdrozenie.it](https://www.wdrozenie.it/)
 + [wdrozenie - Dokumentacja](https://docs.wdrozenie.it/)
 
 Chat do komunikacji z klientami bazujące na jLoads
