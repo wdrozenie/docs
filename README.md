@@ -1,6 +1,43 @@
 # wdrozenie.it
 
-[Wdrożenie systemu – Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Wdro%C5%BCenie_systemu)
+## Stosowane skróty 
+
+    // zadanie - czynność
+    @ osoba
+    # cecha - rzeczownik
+
+
+# Dokumentacja aplikacja 
+
+## //estymowanie
+
++ @Pomysłodawca @Client
++ @ProjectOwner @SoftwareDeveloper
+
+
+    #plan
+    #idea
+
+
+## //dokumentowanie
+
++ @Pomysłodawca @Client
++ @ProjectOwner @SoftwareDeveloper
+ 
+        
+    #dokumentacja
+
+
+## //wdrażanie
+
+
+## //kupowanie
+
+    #aplikacja
+
+
+
+# [Wdrożenie systemu – Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Wdro%C5%BCenie_systemu)
 
 > **Wdrożenie systemu** – etap [cyklu życia systemu](https://pl.wikipedia.org/wiki/Cykl_%C5%BCycia_systemu "Cykl życia systemu"), polegający na instalacji i dostosowaniu oprogramowania do wymagań użytkownika, a także [migracji danych](https://pl.wikipedia.org/wiki/Migracja_danych "Migracja danych") oraz [testowaniu](https://pl.wikipedia.org/wiki/Testowanie_oprogramowania "Testowanie oprogramowania") i uruchomieniu [systemu informatycznego](https://pl.wikipedia.org/wiki/System_informatyczny "System informatyczny")[\[1\]](https://pl.wikipedia.org/wiki/Wdro%C5%BCenie_systemu#cite_note-1).
 > 
@@ -34,8 +71,7 @@
 
 
 
-
-# Inwestor
+## Inwestor
 
 Inwestor ma dwa główne oczekiwania wobec założyciela startupu. Polegają one na tym, że założyciel (founder):
 
@@ -45,7 +81,7 @@ Inwestor ma dwa główne oczekiwania wobec założyciela startupu. Polegają one
 Zanim przejdę dalej, odniosę się w kilku słowach do wspomnianych oczekiwań po stronie inwestora.
 
 
-# Founder
+## Founder
 
 Założyciel startupu to kluczowy element realizacji planu rozwoju
 
@@ -56,7 +92,7 @@ Z tego punktu widzenia można zadać dwa pytania retoryczne:
     Kto jak nie założyciel startupu (founder) najlepiej zna projekt i wie jak go zrealizować?
     Kto jak nie założyciel startupu będzie najlepiej zmotywowany, aby projekt doprowadzić do sukcesu?
 
-# Model biznesowy
+## Model biznesowy
 
 Dostosowanie projektu do realiów rynku docelowego
 
@@ -69,7 +105,7 @@ Takie zmiany dotykają w zasadzie wszystkie rynki docelowe, choć z rożnym nat�
 
 Druga z wymienionych kwestii wiąże się przede wszystkim z założeniami przyjętymi w modelu biznesowym, które w ramach wejścia startupu na rynek się nie potwierdziły.
 
-# Inwestycja
+## Inwestycja
 
 Inwestor chce mieć pewność, że założyciel startupu zidentyfikuje takie problemy, a następnie dostosuje model biznesowy do rzeczywistych oczekiwań klientów.
 Wstępna ocena założyciela na spotkaniu z inwestorem
