@@ -1,5 +1,4 @@
-wdrozenie.it
-
+# wdrozenie.it
 
 [Wdrożenie systemu – Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Wdro%C5%BCenie_systemu)
 
@@ -31,3 +30,59 @@ wdrozenie.it
 > -   **równoległa** – jednoczesne [przetwarzanie](https://pl.wikipedia.org/wiki/Przetwarzanie_danych "Przetwarzanie danych") danych w starym i nowym systemie. Jest to najbardziej bezpieczna strategia, ale również najdroższa. Może być konfliktogenna z uwagi na grupy pracowników pracujących na starym i nowym systemie, na ich różne [wymagania](https://pl.wikipedia.org/wiki/Wymaganie_(in%C5%BCynieria) "Wymaganie (inżynieria)").
 > 
 > Kluczowym elementem wdrożenia z perspektywy prawa jest wprowadzenie systemu do organizacji, firmy, czy instytucji przez przekazanie licencji, praw autorskich i w szczególności prawa własności. W praktyce prawo własności pozostaje czasem przy wdrażającym, dostawcy usług, względnie producencie systemu. Wówczas jednak mamy do czynienia ze świadczeniem systemu w formie usług (np. [hostingu](https://pl.wikipedia.org/wiki/Hosting "Hosting") lub najmu).
+
+
+
+
+
+# Inwestor
+
+Inwestor ma dwa główne oczekiwania wobec założyciela startupu. Polegają one na tym, że założyciel (founder):
+
+    doprowadzi do realizacji przedstawianego przez niego planu rozwoju,
+    będzie w stanie w dostosować plan rozwoju w ramach ciągłej konfrontacji z rynkiem na etapie wdrażania. 
+
+Zanim przejdę dalej, odniosę się w kilku słowach do wspomnianych oczekiwań po stronie inwestora.
+
+
+# Founder
+
+Założyciel startupu to kluczowy element realizacji planu rozwoju
+
+Od założyciela startupu zależy sukces realizacji planu rozwoju. 
+
+Z tego punktu widzenia można zadać dwa pytania retoryczne:
+
+    Kto jak nie założyciel startupu (founder) najlepiej zna projekt i wie jak go zrealizować?
+    Kto jak nie założyciel startupu będzie najlepiej zmotywowany, aby projekt doprowadzić do sukcesu?
+
+# Model biznesowy
+
+Dostosowanie projektu do realiów rynku docelowego
+
+    zmiany na rynku docelowym, które dotyczą wszystkich uczestników tego rynku,
+    oczekiwania rynku, które na etapie tworzenia planu rozwoju firmy trudno było przewidzieć.
+
+Pierwsza z wymienionych powyżej kwestii dotyczy ciągłych zmian na rynku, które w uproszczeniu odzwierciedlają zmieniające się preferencje klientów.
+
+Takie zmiany dotykają w zasadzie wszystkie rynki docelowe, choć z rożnym natężeniem.
+
+Druga z wymienionych kwestii wiąże się przede wszystkim z założeniami przyjętymi w modelu biznesowym, które w ramach wejścia startupu na rynek się nie potwierdziły.
+
+# Inwestycja
+
+Inwestor chce mieć pewność, że założyciel startupu zidentyfikuje takie problemy, a następnie dostosuje model biznesowy do rzeczywistych oczekiwań klientów.
+Wstępna ocena założyciela na spotkaniu z inwestorem
+
+Wstępna ocena ma na celu stwierdzenie czy założyciel startupu między innymi jest w stanie:
+
+    zrealizować przedstawiane przez niego cele startupu,
+    funkcjonować w dynamicznym środowisku,
+    pracować długie godziny,
+    bezustannie rozwijać się,
+    pozytywnie reagować na stres.
+
+Jeśli ta wstępna ocena założyciela wypadnie negatywnie to inwestor może zrezygnować z kolejnych spotkań w sprawie inwestycji. Inwestor może podjąć taką decyzję pomimo dobrej oceny innych elementów tego projektu.
+
+Inwestor Venture Capital kontynuuje ocenę założyciela, równolegle do analizy projektu, czyli procesu due diligence.
+
